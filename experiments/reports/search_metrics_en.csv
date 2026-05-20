@@ -1,0 +1,91 @@
+method,query,k,precision,recall,ndcg,mrr
+keyword,I remember writing about finding related ideas even when I use different words,3,1.0,0.1,1.0,1.0
+keyword,I remember writing about finding related ideas even when I use different words,5,1.0,0.16666666666666666,1.0,1.0
+keyword,I remember writing about finding related ideas even when I use different words,10,1.0,0.3333333333333333,1.0,1.0
+semantic,I remember writing about finding related ideas even when I use different words,3,1.0,0.1,1.0,1.0
+semantic,I remember writing about finding related ideas even when I use different words,5,1.0,0.16666666666666666,1.0,1.0
+semantic,I remember writing about finding related ideas even when I use different words,10,1.0,0.3333333333333333,1.0,1.0
+keyword,what was my simple old-school search baseline for comparison,3,1.0,0.1,1.0,1.0
+keyword,what was my simple old-school search baseline for comparison,5,1.0,0.16666666666666666,1.0,1.0
+keyword,what was my simple old-school search baseline for comparison,10,1.0,0.3333333333333333,1.0,1.0
+semantic,what was my simple old-school search baseline for comparison,3,1.0,0.1,1.0,1.0
+semantic,what was my simple old-school search baseline for comparison,5,1.0,0.16666666666666666,1.0,1.0
+semantic,what was my simple old-school search baseline for comparison,10,1.0,0.3333333333333333,1.0,1.0
+keyword,how can the system organize my notes automatically,3,0.3333333333333333,0.03333333333333333,0.2960819109658652,0.5
+keyword,how can the system organize my notes automatically,5,0.4,0.06666666666666667,0.36005461457723403,0.5
+keyword,how can the system organize my notes automatically,10,0.5,0.16666666666666666,0.43295704183322337,0.5
+semantic,how can the system organize my notes automatically,3,0.6666666666666666,0.06666666666666667,0.7653606369886217,1.0
+semantic,how can the system organize my notes automatically,5,0.6,0.1,0.6992148198508501,1.0
+semantic,how can the system organize my notes automatically,10,0.5,0.16666666666666666,0.5836175861945262,1.0
+keyword,where should information about notes and vectors be kept,3,0.0,0.0,0.0,0.0
+keyword,where should information about notes and vectors be kept,5,0.0,0.0,0.0,0.0
+keyword,where should information about notes and vectors be kept,10,0.0,0.0,0.0,0.0
+semantic,where should information about notes and vectors be kept,3,1.0,0.1,1.0,1.0
+semantic,where should information about notes and vectors be kept,5,0.6,0.1,0.7227265726449519,1.0
+semantic,where should information about notes and vectors be kept,10,0.4,0.13333333333333333,0.5326208815196265,1.0
+keyword,how do I prove one search approach works better than another,3,0.0,0.0,0.0,0.0
+keyword,how do I prove one search approach works better than another,5,0.0,0.0,0.0,0.0
+keyword,how do I prove one search approach works better than another,10,0.0,0.0,0.0,0.0
+semantic,how do I prove one search approach works better than another,3,1.0,0.1,1.0,1.0
+semantic,how do I prove one search approach works better than another,5,0.6,0.1,0.7227265726449519,1.0
+semantic,how do I prove one search approach works better than another,10,0.4,0.13333333333333333,0.5326208815196265,1.0
+keyword,how to review tasks and old thoughts every week,3,1.0,0.1,1.0,1.0
+keyword,how to review tasks and old thoughts every week,5,1.0,0.16666666666666666,1.0,1.0
+keyword,how to review tasks and old thoughts every week,10,1.0,0.3333333333333333,1.0,1.0
+semantic,how to review tasks and old thoughts every week,3,1.0,0.1,1.0,1.0
+semantic,how to review tasks and old thoughts every week,5,1.0,0.16666666666666666,1.0,1.0
+semantic,how to review tasks and old thoughts every week,10,1.0,0.3333333333333333,1.0,1.0
+keyword,how to keep the prototype code understandable and not too complex,3,1.0,0.1,1.0,1.0
+keyword,how to keep the prototype code understandable and not too complex,5,1.0,0.16666666666666666,1.0,1.0
+keyword,how to keep the prototype code understandable and not too complex,10,1.0,0.3333333333333333,1.0,1.0
+semantic,how to keep the prototype code understandable and not too complex,3,1.0,0.1,1.0,1.0
+semantic,how to keep the prototype code understandable and not too complex,5,1.0,0.16666666666666666,1.0,1.0
+semantic,how to keep the prototype code understandable and not too complex,10,1.0,0.3333333333333333,1.0,1.0
+keyword,make long notes easier to inspect in the search results,3,1.0,0.1,1.0,1.0
+keyword,make long notes easier to inspect in the search results,5,1.0,0.16666666666666666,1.0,1.0
+keyword,make long notes easier to inspect in the search results,10,1.0,0.3333333333333333,1.0,1.0
+semantic,make long notes easier to inspect in the search results,3,1.0,0.1,1.0,1.0
+semantic,make long notes easier to inspect in the search results,5,1.0,0.16666666666666666,1.0,1.0
+semantic,make long notes easier to inspect in the search results,10,0.9,0.3,0.9363792118010483,1.0
+keyword,semantic memory for scattered personal knowledge,3,1.0,0.1,1.0,1.0
+keyword,semantic memory for scattered personal knowledge,5,1.0,0.16666666666666666,1.0,1.0
+keyword,semantic memory for scattered personal knowledge,10,0.9,0.3,0.9216017310213247,1.0
+semantic,semantic memory for scattered personal knowledge,3,1.0,0.1,1.0,1.0
+semantic,semantic memory for scattered personal knowledge,5,1.0,0.16666666666666666,1.0,1.0
+semantic,semantic memory for scattered personal knowledge,10,1.0,0.3333333333333333,1.0,1.0
+keyword,make the experiment repeatable with human judgments,3,1.0,0.1,1.0,1.0
+keyword,make the experiment repeatable with human judgments,5,1.0,0.16666666666666666,1.0,1.0
+keyword,make the experiment repeatable with human judgments,10,1.0,0.3333333333333333,1.0,1.0
+semantic,make the experiment repeatable with human judgments,3,0.6666666666666666,0.06666666666666667,0.7039180890341347,1.0
+semantic,make the experiment repeatable with human judgments,5,0.8,0.13333333333333333,0.7860137352654724,1.0
+semantic,make the experiment repeatable with human judgments,10,0.6,0.2,0.6496872770120411,1.0
+keyword,connect forgotten research ideas across my note collection,3,0.0,0.0,0.0,0.0
+keyword,connect forgotten research ideas across my note collection,5,0.0,0.0,0.0,0.0
+keyword,connect forgotten research ideas across my note collection,10,0.0,0.0,0.0,0.0
+semantic,connect forgotten research ideas across my note collection,3,1.0,0.1,1.0,1.0
+semantic,connect forgotten research ideas across my note collection,5,1.0,0.16666666666666666,1.0,1.0
+semantic,connect forgotten research ideas across my note collection,10,0.9,0.3,0.9363792118010483,1.0
+keyword,avoid building a large backend for a small demo,3,1.0,0.1,1.0,1.0
+keyword,avoid building a large backend for a small demo,5,1.0,0.16666666666666666,1.0,1.0
+keyword,avoid building a large backend for a small demo,10,1.0,0.3333333333333333,1.0,1.0
+semantic,avoid building a large backend for a small demo,3,1.0,0.1,1.0,1.0
+semantic,avoid building a large backend for a small demo,5,1.0,0.16666666666666666,1.0,1.0
+semantic,avoid building a large backend for a small demo,10,1.0,0.3333333333333333,1.0,1.0
+keyword,short previews before opening a full note,3,1.0,0.1,1.0,1.0
+keyword,short previews before opening a full note,5,1.0,0.16666666666666666,1.0,1.0
+keyword,short previews before opening a full note,10,1.0,0.3333333333333333,1.0,1.0
+semantic,short previews before opening a full note,3,1.0,0.1,1.0,1.0
+semantic,short previews before opening a full note,5,1.0,0.16666666666666666,1.0,1.0
+semantic,short previews before opening a full note,10,1.0,0.3333333333333333,1.0,1.0
+keyword,save note fields so experiments can be repeated later,3,1.0,0.1,1.0,1.0
+keyword,save note fields so experiments can be repeated later,5,1.0,0.16666666666666666,1.0,1.0
+keyword,save note fields so experiments can be repeated later,10,0.7,0.23333333333333334,0.800693766409882,1.0
+semantic,save note fields so experiments can be repeated later,3,0.0,0.0,0.0,0.14285714285714285
+semantic,save note fields so experiments can be repeated later,5,0.0,0.0,0.0,0.14285714285714285
+semantic,save note fields so experiments can be repeated later,10,0.2,0.06666666666666667,0.13698471029831175,0.14285714285714285
+keyword,labels that appear without me typing them manually,3,0.6666666666666666,0.06666666666666667,0.5307212739772434,0.5
+keyword,labels that appear without me typing them manually,5,0.6,0.1,0.5296347172140421,0.5
+keyword,labels that appear without me typing them manually,10,0.4,0.13333333333333333,0.4131279133289227,0.5
+semantic,labels that appear without me typing them manually,3,1.0,0.1,1.0,1.0
+semantic,labels that appear without me typing them manually,5,1.0,0.16666666666666666,1.0,1.0
+semantic,labels that appear without me typing them manually,10,1.0,0.3333333333333333,1.0,1.0

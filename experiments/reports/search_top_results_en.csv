@@ -1,0 +1,301 @@
+query,method,rank,note_id,title,score,is_relevant
+I remember writing about finding related ideas even when I use different words,keyword,1,5,Finding ideas without exact words #5,0.36236678455902743,True
+I remember writing about finding related ideas even when I use different words,keyword,2,13,Finding ideas without exact words #13,0.3503110048701614,True
+I remember writing about finding related ideas even when I use different words,keyword,3,21,Finding ideas without exact words #21,0.3472086849509548,True
+I remember writing about finding related ideas even when I use different words,keyword,4,28,Finding ideas without exact words #28,0.3409411096350453,True
+I remember writing about finding related ideas even when I use different words,keyword,5,19,Finding ideas without exact words #19,0.3397622365568651,True
+I remember writing about finding related ideas even when I use different words,keyword,6,3,Semantic retrieval for personal notes #3,0.21079876817935353,True
+I remember writing about finding related ideas even when I use different words,keyword,7,1,Semantic retrieval for personal notes #1,0.20643006602653582,True
+I remember writing about finding related ideas even when I use different words,keyword,8,6,Embedding search in a PKM system #6,0.2054017924155363,True
+I remember writing about finding related ideas even when I use different words,keyword,9,8,Meaning-based search workflow #8,0.20014946745382375,True
+I remember writing about finding related ideas even when I use different words,keyword,10,17,Embedding search in a PKM system #17,0.1969925901167495,True
+I remember writing about finding related ideas even when I use different words,semantic,1,28,Finding ideas without exact words #28,0.5872494578361511,True
+I remember writing about finding related ideas even when I use different words,semantic,2,19,Finding ideas without exact words #19,0.5506914854049683,True
+I remember writing about finding related ideas even when I use different words,semantic,3,21,Finding ideas without exact words #21,0.5482217669487,True
+I remember writing about finding related ideas even when I use different words,semantic,4,5,Finding ideas without exact words #5,0.543879508972168,True
+I remember writing about finding related ideas even when I use different words,semantic,5,30,Meaning-based search workflow #30,0.530285120010376,True
+I remember writing about finding related ideas even when I use different words,semantic,6,13,Finding ideas without exact words #13,0.5300540924072266,True
+I remember writing about finding related ideas even when I use different words,semantic,7,16,Meaning-based search workflow #16,0.5003607273101807,True
+I remember writing about finding related ideas even when I use different words,semantic,8,8,Meaning-based search workflow #8,0.4870314300060272,True
+I remember writing about finding related ideas even when I use different words,semantic,9,29,Meaning-based search workflow #29,0.4840700626373291,True
+I remember writing about finding related ideas even when I use different words,semantic,10,11,Semantic retrieval for personal notes #11,0.4799194931983948,True
+what was my simple old-school search baseline for comparison,keyword,1,35,TF-IDF baseline for note search #5,0.3643314272989669,True
+what was my simple old-school search baseline for comparison,keyword,2,37,TF-IDF baseline for note search #7,0.3350301687308079,True
+what was my simple old-school search baseline for comparison,keyword,3,50,Search baseline with word overlap #20,0.33371676448840304,True
+what was my simple old-school search baseline for comparison,keyword,4,56,Search baseline with word overlap #26,0.3042033617631995,True
+what was my simple old-school search baseline for comparison,keyword,5,46,BM25 and TF-IDF comparison note #16,0.2384806462389934,True
+what was my simple old-school search baseline for comparison,keyword,6,52,Search baseline with word overlap #22,0.23673452614803697,True
+what was my simple old-school search baseline for comparison,keyword,7,54,TF-IDF baseline for note search #24,0.2255037335769035,True
+what was my simple old-school search baseline for comparison,keyword,8,43,TF-IDF baseline for note search #13,0.22046831890625893,True
+what was my simple old-school search baseline for comparison,keyword,9,48,BM25 and TF-IDF comparison note #18,0.21845248769397577,True
+what was my simple old-school search baseline for comparison,keyword,10,53,Keyword matching experiment #23,0.20653000255590565,True
+what was my simple old-school search baseline for comparison,semantic,1,60,Keyword matching experiment #30,0.6095545291900635,True
+what was my simple old-school search baseline for comparison,semantic,2,45,Keyword matching experiment #15,0.6055525541305542,True
+what was my simple old-school search baseline for comparison,semantic,3,48,BM25 and TF-IDF comparison note #18,0.5956003069877625,True
+what was my simple old-school search baseline for comparison,semantic,4,53,Keyword matching experiment #23,0.5950907468795776,True
+what was my simple old-school search baseline for comparison,semantic,5,50,Search baseline with word overlap #20,0.581445038318634,True
+what was my simple old-school search baseline for comparison,semantic,6,44,Keyword matching experiment #14,0.5797909498214722,True
+what was my simple old-school search baseline for comparison,semantic,7,56,Search baseline with word overlap #26,0.5767065286636353,True
+what was my simple old-school search baseline for comparison,semantic,8,43,TF-IDF baseline for note search #13,0.5710459351539612,True
+what was my simple old-school search baseline for comparison,semantic,9,54,TF-IDF baseline for note search #24,0.5556929111480713,True
+what was my simple old-school search baseline for comparison,semantic,10,46,BM25 and TF-IDF comparison note #16,0.5527404546737671,True
+how can the system organize my notes automatically,keyword,1,159,Task capture inside notes #9,0.18018712781228557,False
+how can the system organize my notes automatically,keyword,2,89,Organizing notes with labels #29,0.17604103029982845,True
+how can the system organize my notes automatically,keyword,3,3,Semantic retrieval for personal notes #3,0.17589722235051247,False
+how can the system organize my notes automatically,keyword,4,75,Organizing notes with labels #15,0.1725692044698521,True
+how can the system organize my notes automatically,keyword,5,1,Semantic retrieval for personal notes #1,0.1722518377944532,False
+how can the system organize my notes automatically,keyword,6,155,Task capture inside notes #5,0.17147111986918445,False
+how can the system organize my notes automatically,keyword,7,11,Semantic retrieval for personal notes #11,0.1619658047160681,False
+how can the system organize my notes automatically,keyword,8,64,Organizing notes with labels #4,0.10063301292630068,True
+how can the system organize my notes automatically,keyword,9,61,Organizing notes with labels #1,0.10009446039403486,True
+how can the system organize my notes automatically,keyword,10,79,Organizing notes with labels #19,0.09562424017880063,True
+how can the system organize my notes automatically,semantic,1,75,Organizing notes with labels #15,0.5930789709091187,True
+how can the system organize my notes automatically,semantic,2,89,Organizing notes with labels #29,0.5902165174484253,True
+how can the system organize my notes automatically,semantic,3,223,Automatic summary idea #13,0.45736002922058105,False
+how can the system organize my notes automatically,semantic,4,73,Top-k tag recommendation #13,0.4446150064468384,True
+how can the system organize my notes automatically,semantic,5,162,Task capture inside notes #12,0.4429393410682678,False
+how can the system organize my notes automatically,semantic,6,158,Task capture inside notes #8,0.43875354528427124,False
+how can the system organize my notes automatically,semantic,7,166,Task capture inside notes #16,0.4364975094795227,False
+how can the system organize my notes automatically,semantic,8,232,Automatic summary idea #22,0.432850182056427,False
+how can the system organize my notes automatically,semantic,9,88,Top-k tag recommendation #28,0.431339830160141,True
+how can the system organize my notes automatically,semantic,10,81,Automatic tagging with embeddings #21,0.42353004217147827,True
+where should information about notes and vectors be kept,keyword,1,9,Semantic retrieval for personal notes #9,0.14261873122876312,False
+where should information about notes and vectors be kept,keyword,2,23,Semantic retrieval for personal notes #23,0.13351541509206893,False
+where should information about notes and vectors be kept,keyword,3,5,Finding ideas without exact words #5,0.12694868341199272,False
+where should information about notes and vectors be kept,keyword,4,29,Meaning-based search workflow #29,0.12358253611624224,False
+where should information about notes and vectors be kept,keyword,5,122,Evaluation plan for search quality #2,0.12238564191544994,False
+where should information about notes and vectors be kept,keyword,6,21,Finding ideas without exact words #21,0.12163831593277027,False
+where should information about notes and vectors be kept,keyword,7,124,Metrics for retrieval experiments #4,0.11935656449305139,False
+where should information about notes and vectors be kept,keyword,8,148,Manual relevance labels #28,0.11902318013845095,False
+where should information about notes and vectors be kept,keyword,9,12,Semantic retrieval for personal notes #12,0.11823211052432761,False
+where should information about notes and vectors be kept,keyword,10,134,Research methodology note #14,0.11610715647094186,False
+where should information about notes and vectors be kept,semantic,1,116,Vector index storage idea #26,0.5992693901062012,True
+where should information about notes and vectors be kept,semantic,2,109,Vector index storage idea #19,0.588648796081543,True
+where should information about notes and vectors be kept,semantic,3,101,Vector index storage idea #11,0.5719738006591797,True
+where should information about notes and vectors be kept,semantic,4,89,Organizing notes with labels #29,0.5490751266479492,False
+where should information about notes and vectors be kept,semantic,5,9,Semantic retrieval for personal notes #9,0.5383249521255493,False
+where should information about notes and vectors be kept,semantic,6,75,Organizing notes with labels #15,0.5346861481666565,False
+where should information about notes and vectors be kept,semantic,7,26,Finding ideas without exact words #26,0.5322363376617432,False
+where should information about notes and vectors be kept,semantic,8,18,Finding ideas without exact words #18,0.5272109508514404,False
+where should information about notes and vectors be kept,semantic,9,23,Semantic retrieval for personal notes #23,0.5221712589263916,False
+where should information about notes and vectors be kept,semantic,10,92,SQLite storage for notes #2,0.5219519138336182,True
+how do I prove one search approach works better than another,keyword,1,69,Top-k tag recommendation #9,0.1798561942887126,False
+how do I prove one search approach works better than another,keyword,2,82,Tag similarity experiment #22,0.1688667360622807,False
+how do I prove one search approach works better than another,keyword,3,65,Top-k tag recommendation #5,0.15560447739982106,False
+how do I prove one search approach works better than another,keyword,4,73,Top-k tag recommendation #13,0.1533694213042514,False
+how do I prove one search approach works better than another,keyword,5,88,Top-k tag recommendation #28,0.15208536807388442,False
+how do I prove one search approach works better than another,keyword,6,76,Tag similarity experiment #16,0.15174048734526632,False
+how do I prove one search approach works better than another,keyword,7,89,Organizing notes with labels #29,0.1485637598640145,False
+how do I prove one search approach works better than another,keyword,8,70,Tag similarity experiment #10,0.147962738806982,False
+how do I prove one search approach works better than another,keyword,9,75,Organizing notes with labels #15,0.14563383211923922,False
+how do I prove one search approach works better than another,keyword,10,81,Automatic tagging with embeddings #21,0.13554511903514885,False
+how do I prove one search approach works better than another,semantic,1,132,Evaluation plan for search quality #12,0.6368183493614197,True
+how do I prove one search approach works better than another,semantic,2,122,Evaluation plan for search quality #2,0.6353102922439575,True
+how do I prove one search approach works better than another,semantic,3,146,Evaluation plan for search quality #26,0.6102392077445984,True
+how do I prove one search approach works better than another,semantic,4,45,Keyword matching experiment #15,0.6084076762199402,False
+how do I prove one search approach works better than another,semantic,5,32,Keyword matching experiment #2,0.5954083204269409,False
+how do I prove one search approach works better than another,semantic,6,60,Keyword matching experiment #30,0.5865721702575684,False
+how do I prove one search approach works better than another,semantic,7,53,Keyword matching experiment #23,0.5649205446243286,False
+how do I prove one search approach works better than another,semantic,8,210,Search API boundary #30,0.5559104681015015,False
+how do I prove one search approach works better than another,semantic,9,8,Meaning-based search workflow #8,0.5501539707183838,False
+how do I prove one search approach works better than another,semantic,10,140,Metrics for retrieval experiments #20,0.54620361328125,True
+how to review tasks and old thoughts every week,keyword,1,170,Reducing friction in PKM #20,0.20715899287274467,True
+how to review tasks and old thoughts every week,keyword,2,171,Reducing friction in PKM #21,0.20657513420527993,True
+how to review tasks and old thoughts every week,keyword,3,173,Weekly review workflow #23,0.20431450382541066,True
+how to review tasks and old thoughts every week,keyword,4,166,Task capture inside notes #16,0.2027834469212448,True
+how to review tasks and old thoughts every week,keyword,5,163,Task capture inside notes #13,0.2019729387936355,True
+how to review tasks and old thoughts every week,keyword,6,162,Task capture inside notes #12,0.19908115375243457,True
+how to review tasks and old thoughts every week,keyword,7,158,Task capture inside notes #8,0.19824738269753417,True
+how to review tasks and old thoughts every week,keyword,8,154,Personal knowledge review #4,0.18417776416978565,True
+how to review tasks and old thoughts every week,keyword,9,172,Personal knowledge review #22,0.165109472732129,True
+how to review tasks and old thoughts every week,keyword,10,152,Personal knowledge review #2,0.16441152965180728,True
+how to review tasks and old thoughts every week,semantic,1,162,Task capture inside notes #12,0.6645703911781311,True
+how to review tasks and old thoughts every week,semantic,2,163,Task capture inside notes #13,0.6517359018325806,True
+how to review tasks and old thoughts every week,semantic,3,166,Task capture inside notes #16,0.6474136710166931,True
+how to review tasks and old thoughts every week,semantic,4,158,Task capture inside notes #8,0.644733190536499,True
+how to review tasks and old thoughts every week,semantic,5,168,Weekly review workflow #18,0.6111249923706055,True
+how to review tasks and old thoughts every week,semantic,6,154,Personal knowledge review #4,0.5983589887619019,True
+how to review tasks and old thoughts every week,semantic,7,175,Weekly review workflow #25,0.5860912799835205,True
+how to review tasks and old thoughts every week,semantic,8,173,Weekly review workflow #23,0.5669072270393372,True
+how to review tasks and old thoughts every week,semantic,9,179,Weekly review workflow #29,0.5644418597221375,True
+how to review tasks and old thoughts every week,semantic,10,155,Task capture inside notes #5,0.5614184737205505,True
+how to keep the prototype code understandable and not too complex,keyword,1,195,Keeping the prototype modular #15,0.29351392751705135,True
+how to keep the prototype code understandable and not too complex,keyword,2,181,Keeping the prototype modular #1,0.25214372445908645,True
+how to keep the prototype code understandable and not too complex,keyword,3,190,Simple module structure #10,0.2491234108323846,True
+how to keep the prototype code understandable and not too complex,keyword,4,196,Keeping the prototype modular #16,0.19602126685139487,True
+how to keep the prototype code understandable and not too complex,keyword,5,191,Keeping the prototype modular #11,0.1924995856942737,True
+how to keep the prototype code understandable and not too complex,keyword,6,182,Architecture without overengineering #2,0.16592730500059788,True
+how to keep the prototype code understandable and not too complex,keyword,7,183,Architecture without overengineering #3,0.16257291470924856,True
+how to keep the prototype code understandable and not too complex,keyword,8,208,Keeping the prototype modular #28,0.16119020636614384,True
+how to keep the prototype code understandable and not too complex,keyword,9,210,Search API boundary #30,0.15828830827429824,True
+how to keep the prototype code understandable and not too complex,keyword,10,198,Architecture without overengineering #18,0.15309032600975175,True
+how to keep the prototype code understandable and not too complex,semantic,1,190,Simple module structure #10,0.7368645071983337,True
+how to keep the prototype code understandable and not too complex,semantic,2,191,Keeping the prototype modular #11,0.7344872355461121,True
+how to keep the prototype code understandable and not too complex,semantic,3,181,Keeping the prototype modular #1,0.710017204284668,True
+how to keep the prototype code understandable and not too complex,semantic,4,195,Keeping the prototype modular #15,0.7031536102294922,True
+how to keep the prototype code understandable and not too complex,semantic,5,208,Keeping the prototype modular #28,0.6944878101348877,True
+how to keep the prototype code understandable and not too complex,semantic,6,196,Keeping the prototype modular #16,0.6799691915512085,True
+how to keep the prototype code understandable and not too complex,semantic,7,207,Keeping the prototype modular #27,0.6617403626441956,True
+how to keep the prototype code understandable and not too complex,semantic,8,192,Architecture without overengineering #12,0.6537001132965088,True
+how to keep the prototype code understandable and not too complex,semantic,9,183,Architecture without overengineering #3,0.644048810005188,True
+how to keep the prototype code understandable and not too complex,semantic,10,182,Architecture without overengineering #2,0.6345386505126953,True
+make long notes easier to inspect in the search results,keyword,1,216,Condensing long research notes #6,0.3729454339411697,True
+make long notes easier to inspect in the search results,keyword,2,211,Summaries for search results #1,0.36805707698397316,True
+make long notes easier to inspect in the search results,keyword,3,221,Condensing long research notes #11,0.3606853019582762,True
+make long notes easier to inspect in the search results,keyword,4,228,Summaries for search results #18,0.33088791725343214,True
+make long notes easier to inspect in the search results,keyword,5,217,Note preview generation #7,0.29256389824851664,True
+make long notes easier to inspect in the search results,keyword,6,224,Automatic summary idea #14,0.2834621150162625,True
+make long notes easier to inspect in the search results,keyword,7,229,Note preview generation #19,0.28027169762426074,True
+make long notes easier to inspect in the search results,keyword,8,220,Note preview generation #10,0.27540594870986274,True
+make long notes easier to inspect in the search results,keyword,9,233,Note preview generation #23,0.2742386438108068,True
+make long notes easier to inspect in the search results,keyword,10,214,Automatic summary idea #4,0.2707356638164539,True
+make long notes easier to inspect in the search results,semantic,1,221,Condensing long research notes #11,0.7435558438301086,True
+make long notes easier to inspect in the search results,semantic,2,216,Condensing long research notes #6,0.722337007522583,True
+make long notes easier to inspect in the search results,semantic,3,229,Note preview generation #19,0.717939019203186,True
+make long notes easier to inspect in the search results,semantic,4,217,Note preview generation #7,0.7177163362503052,True
+make long notes easier to inspect in the search results,semantic,5,228,Summaries for search results #18,0.6921560764312744,True
+make long notes easier to inspect in the search results,semantic,6,211,Summaries for search results #1,0.6920286417007446,True
+make long notes easier to inspect in the search results,semantic,7,224,Automatic summary idea #14,0.6889747381210327,True
+make long notes easier to inspect in the search results,semantic,8,233,Note preview generation #23,0.672950267791748,True
+make long notes easier to inspect in the search results,semantic,9,220,Note preview generation #10,0.6676545739173889,True
+make long notes easier to inspect in the search results,semantic,10,3,Semantic retrieval for personal notes #3,0.6469290852546692,False
+semantic memory for scattered personal knowledge,keyword,1,17,Embedding search in a PKM system #17,0.225348849315688,True
+semantic memory for scattered personal knowledge,keyword,2,13,Finding ideas without exact words #13,0.22139635480647088,True
+semantic memory for scattered personal knowledge,keyword,3,19,Finding ideas without exact words #19,0.21472953926315838,True
+semantic memory for scattered personal knowledge,keyword,4,1,Semantic retrieval for personal notes #1,0.1991925683743072,True
+semantic memory for scattered personal knowledge,keyword,5,29,Meaning-based search workflow #29,0.1985830027672974,True
+semantic memory for scattered personal knowledge,keyword,6,176,Personal knowledge review #26,0.19634038151541558,False
+semantic memory for scattered personal knowledge,keyword,7,16,Meaning-based search workflow #16,0.19359281196121536,True
+semantic memory for scattered personal knowledge,keyword,8,11,Semantic retrieval for personal notes #11,0.18729776728828607,True
+semantic memory for scattered personal knowledge,keyword,9,9,Semantic retrieval for personal notes #9,0.1790173082107738,True
+semantic memory for scattered personal knowledge,keyword,10,3,Semantic retrieval for personal notes #3,0.17705947677758688,True
+semantic memory for scattered personal knowledge,semantic,1,11,Semantic retrieval for personal notes #11,0.6450510621070862,True
+semantic memory for scattered personal knowledge,semantic,2,1,Semantic retrieval for personal notes #1,0.639646053314209,True
+semantic memory for scattered personal knowledge,semantic,3,3,Semantic retrieval for personal notes #3,0.6394591331481934,True
+semantic memory for scattered personal knowledge,semantic,4,9,Semantic retrieval for personal notes #9,0.6332187652587891,True
+semantic memory for scattered personal knowledge,semantic,5,22,Semantic retrieval for personal notes #22,0.63001549243927,True
+semantic memory for scattered personal knowledge,semantic,6,14,Semantic retrieval for personal notes #14,0.6245099306106567,True
+semantic memory for scattered personal knowledge,semantic,7,27,Finding ideas without exact words #27,0.6244134306907654,True
+semantic memory for scattered personal knowledge,semantic,8,26,Finding ideas without exact words #26,0.623471736907959,True
+semantic memory for scattered personal knowledge,semantic,9,4,Semantic retrieval for personal notes #4,0.6217107772827148,True
+semantic memory for scattered personal knowledge,semantic,10,16,Meaning-based search workflow #16,0.6088601350784302,True
+make the experiment repeatable with human judgments,keyword,1,130,Research methodology note #10,0.17901926035044677,True
+make the experiment repeatable with human judgments,keyword,2,121,Metrics for retrieval experiments #1,0.17464004744560055,True
+make the experiment repeatable with human judgments,keyword,3,145,Research methodology note #25,0.17005961804453157,True
+make the experiment repeatable with human judgments,keyword,4,125,Research methodology note #5,0.1442425805335794,True
+make the experiment repeatable with human judgments,keyword,5,128,Metrics for retrieval experiments #8,0.14221203833557614,True
+make the experiment repeatable with human judgments,keyword,6,137,Metrics for retrieval experiments #17,0.13492288671193645,True
+make the experiment repeatable with human judgments,keyword,7,150,Research methodology note #30,0.13238845575962543,True
+make the experiment repeatable with human judgments,keyword,8,123,Evaluation plan for search quality #3,0.1307534627248045,True
+make the experiment repeatable with human judgments,keyword,9,136,Research methodology note #16,0.12973569373574545,True
+make the experiment repeatable with human judgments,keyword,10,135,Manual relevance labels #15,0.12761415302794027,True
+make the experiment repeatable with human judgments,semantic,1,148,Manual relevance labels #28,0.45322364568710327,True
+make the experiment repeatable with human judgments,semantic,2,178,Personal knowledge review #28,0.4523792862892151,False
+make the experiment repeatable with human judgments,semantic,3,132,Evaluation plan for search quality #12,0.44093358516693115,True
+make the experiment repeatable with human judgments,semantic,4,140,Metrics for retrieval experiments #20,0.42436110973358154,True
+make the experiment repeatable with human judgments,semantic,5,134,Research methodology note #14,0.41607433557510376,True
+make the experiment repeatable with human judgments,semantic,6,173,Weekly review workflow #23,0.4089198708534241,False
+make the experiment repeatable with human judgments,semantic,7,141,Metrics for retrieval experiments #21,0.40621986985206604,True
+make the experiment repeatable with human judgments,semantic,8,42,BM25 and TF-IDF comparison note #12,0.40603524446487427,False
+make the experiment repeatable with human judgments,semantic,9,124,Metrics for retrieval experiments #4,0.40540003776550293,True
+make the experiment repeatable with human judgments,semantic,10,34,BM25 and TF-IDF comparison note #4,0.403925359249115,False
+connect forgotten research ideas across my note collection,keyword,1,157,Reducing friction in PKM #7,0.29464036779803926,False
+connect forgotten research ideas across my note collection,keyword,2,178,Personal knowledge review #28,0.28929834218569456,False
+connect forgotten research ideas across my note collection,keyword,3,173,Weekly review workflow #23,0.2640512812432482,False
+connect forgotten research ideas across my note collection,keyword,4,152,Personal knowledge review #2,0.15680448162089894,False
+connect forgotten research ideas across my note collection,keyword,5,153,Personal knowledge review #3,0.15194900426569768,False
+connect forgotten research ideas across my note collection,keyword,6,172,Personal knowledge review #22,0.15103334271059632,False
+connect forgotten research ideas across my note collection,keyword,7,167,Reducing friction in PKM #17,0.14784690715012638,False
+connect forgotten research ideas across my note collection,keyword,8,151,Task capture inside notes #1,0.14699808768179473,False
+connect forgotten research ideas across my note collection,keyword,9,169,Task capture inside notes #19,0.1439837804257713,False
+connect forgotten research ideas across my note collection,keyword,10,176,Personal knowledge review #26,0.14393104562173392,False
+connect forgotten research ideas across my note collection,semantic,1,11,Semantic retrieval for personal notes #11,0.6149749755859375,True
+connect forgotten research ideas across my note collection,semantic,2,5,Finding ideas without exact words #5,0.6147514581680298,True
+connect forgotten research ideas across my note collection,semantic,3,1,Semantic retrieval for personal notes #1,0.6089478731155396,True
+connect forgotten research ideas across my note collection,semantic,4,3,Semantic retrieval for personal notes #3,0.6087896823883057,True
+connect forgotten research ideas across my note collection,semantic,5,21,Finding ideas without exact words #21,0.6064742803573608,True
+connect forgotten research ideas across my note collection,semantic,6,13,Finding ideas without exact words #13,0.6062296628952026,True
+connect forgotten research ideas across my note collection,semantic,7,19,Finding ideas without exact words #19,0.6047713160514832,True
+connect forgotten research ideas across my note collection,semantic,8,28,Finding ideas without exact words #28,0.6040010452270508,True
+connect forgotten research ideas across my note collection,semantic,9,15,Finding ideas without exact words #15,0.5995709896087646,True
+connect forgotten research ideas across my note collection,semantic,10,176,Personal knowledge review #26,0.5935867428779602,False
+avoid building a large backend for a small demo,keyword,1,188,Simple module structure #8,0.13627189828635736,True
+avoid building a large backend for a small demo,keyword,2,189,Simple module structure #9,0.13386002762343205,True
+avoid building a large backend for a small demo,keyword,3,201,Architecture without overengineering #21,0.13256483631960483,True
+avoid building a large backend for a small demo,keyword,4,207,Keeping the prototype modular #27,0.13247174029459954,True
+avoid building a large backend for a small demo,keyword,5,181,Keeping the prototype modular #1,0.13179867505564147,True
+avoid building a large backend for a small demo,keyword,6,193,Search API boundary #13,0.12662267792138865,True
+avoid building a large backend for a small demo,keyword,7,209,Search API boundary #29,0.1263800940466909,True
+avoid building a large backend for a small demo,keyword,8,184,Architecture without overengineering #4,0.09124290294457124,True
+avoid building a large backend for a small demo,keyword,9,185,Architecture without overengineering #5,0.08907498915098046,True
+avoid building a large backend for a small demo,keyword,10,186,Simple module structure #6,0.08869613321723095,True
+avoid building a large backend for a small demo,semantic,1,184,Architecture without overengineering #4,0.48247629404067993,True
+avoid building a large backend for a small demo,semantic,2,181,Keeping the prototype modular #1,0.4584166407585144,True
+avoid building a large backend for a small demo,semantic,3,185,Architecture without overengineering #5,0.4535714089870453,True
+avoid building a large backend for a small demo,semantic,4,201,Architecture without overengineering #21,0.4511931836605072,True
+avoid building a large backend for a small demo,semantic,5,187,Simple module structure #7,0.45101839303970337,True
+avoid building a large backend for a small demo,semantic,6,208,Keeping the prototype modular #28,0.4329962134361267,True
+avoid building a large backend for a small demo,semantic,7,194,Architecture without overengineering #14,0.4237801730632782,True
+avoid building a large backend for a small demo,semantic,8,182,Architecture without overengineering #2,0.41471952199935913,True
+avoid building a large backend for a small demo,semantic,9,183,Architecture without overengineering #3,0.407129168510437,True
+avoid building a large backend for a small demo,semantic,10,206,Search API boundary #26,0.40219083428382874,True
+short previews before opening a full note,keyword,1,218,Summaries for search results #8,0.21949475293809179,True
+short previews before opening a full note,keyword,2,212,Automatic summary idea #2,0.20712941981163738,True
+short previews before opening a full note,keyword,3,231,Automatic summary idea #21,0.20078045875623776,True
+short previews before opening a full note,keyword,4,237,Condensing long research notes #27,0.19570766888828514,True
+short previews before opening a full note,keyword,5,240,Condensing long research notes #30,0.1943349636966235,True
+short previews before opening a full note,keyword,6,222,Note preview generation #12,0.1843874415177784,True
+short previews before opening a full note,keyword,7,219,Summaries for search results #9,0.17848170804289143,True
+short previews before opening a full note,keyword,8,239,Summaries for search results #29,0.17170565318349024,True
+short previews before opening a full note,keyword,9,238,Automatic summary idea #28,0.16647110347359256,True
+short previews before opening a full note,keyword,10,234,Condensing long research notes #24,0.16181358827968206,True
+short previews before opening a full note,semantic,1,222,Note preview generation #12,0.642300009727478,True
+short previews before opening a full note,semantic,2,220,Note preview generation #10,0.6268432140350342,True
+short previews before opening a full note,semantic,3,212,Automatic summary idea #2,0.6114534139633179,True
+short previews before opening a full note,semantic,4,229,Note preview generation #19,0.6099420785903931,True
+short previews before opening a full note,semantic,5,217,Note preview generation #7,0.5978033542633057,True
+short previews before opening a full note,semantic,6,233,Note preview generation #23,0.5913527011871338,True
+short previews before opening a full note,semantic,7,213,Note preview generation #3,0.586951732635498,True
+short previews before opening a full note,semantic,8,231,Automatic summary idea #21,0.5792079567909241,True
+short previews before opening a full note,semantic,9,240,Condensing long research notes #30,0.5712152719497681,True
+short previews before opening a full note,semantic,10,227,Note preview generation #17,0.5681343078613281,True
+save note fields so experiments can be repeated later,keyword,1,94,SQLite storage for notes #4,0.16013883609771618,True
+save note fields so experiments can be repeated later,keyword,2,100,Database schema for PKM prototype #10,0.15351493916306969,True
+save note fields so experiments can be repeated later,keyword,3,118,Database schema for PKM prototype #28,0.15100576080864184,True
+save note fields so experiments can be repeated later,keyword,4,116,Vector index storage idea #26,0.15077233282861313,True
+save note fields so experiments can be repeated later,keyword,5,115,SQLite storage for notes #25,0.15066195843124158,True
+save note fields so experiments can be repeated later,keyword,6,106,Metadata table design #16,0.14729799321786743,True
+save note fields so experiments can be repeated later,keyword,7,101,Vector index storage idea #11,0.13912757780442,True
+save note fields so experiments can be repeated later,keyword,8,184,Architecture without overengineering #4,0.094930613308042,False
+save note fields so experiments can be repeated later,keyword,9,187,Simple module structure #7,0.0913016596687486,False
+save note fields so experiments can be repeated later,keyword,10,205,Search API boundary #25,0.08987894153130434,False
+save note fields so experiments can be repeated later,semantic,1,174,Task capture inside notes #24,0.5360862016677856,False
+save note fields so experiments can be repeated later,semantic,2,148,Manual relevance labels #28,0.528860330581665,False
+save note fields so experiments can be repeated later,semantic,3,158,Task capture inside notes #8,0.5258845686912537,False
+save note fields so experiments can be repeated later,semantic,4,151,Task capture inside notes #1,0.5217908620834351,False
+save note fields so experiments can be repeated later,semantic,5,169,Task capture inside notes #19,0.5176624059677124,False
+save note fields so experiments can be repeated later,semantic,6,178,Personal knowledge review #28,0.5119908452033997,False
+save note fields so experiments can be repeated later,semantic,7,110,Vector index storage idea #20,0.5030901432037354,True
+save note fields so experiments can be repeated later,semantic,8,173,Weekly review workflow #23,0.49446797370910645,False
+save note fields so experiments can be repeated later,semantic,9,140,Metrics for retrieval experiments #20,0.4837835431098938,False
+save note fields so experiments can be repeated later,semantic,10,100,Database schema for PKM prototype #10,0.482526957988739,True
+labels that appear without me typing them manually,keyword,1,129,Manual relevance labels #9,0.30281696253699253,False
+labels that appear without me typing them manually,keyword,2,64,Organizing notes with labels #4,0.24841119299572173,True
+labels that appear without me typing them manually,keyword,3,61,Organizing notes with labels #1,0.24708178355898947,True
+labels that appear without me typing them manually,keyword,4,67,Organizing notes with labels #7,0.2281056212579638,True
+labels that appear without me typing them manually,keyword,5,121,Metrics for retrieval experiments #1,0.22715173722222123,False
+labels that appear without me typing them manually,keyword,6,139,Manual relevance labels #19,0.2239094096075187,False
+labels that appear without me typing them manually,keyword,7,150,Research methodology note #30,0.2231263494013085,False
+labels that appear without me typing them manually,keyword,8,77,Organizing notes with labels #17,0.22189110321913696,True
+labels that appear without me typing them manually,keyword,9,145,Research methodology note #25,0.2211940401710873,False
+labels that appear without me typing them manually,keyword,10,123,Evaluation plan for search quality #3,0.2203707463914922,False
+labels that appear without me typing them manually,semantic,1,77,Organizing notes with labels #17,0.5121106505393982,True
+labels that appear without me typing them manually,semantic,2,61,Organizing notes with labels #1,0.5074220895767212,True
+labels that appear without me typing them manually,semantic,3,64,Organizing notes with labels #4,0.4978986084461212,True
+labels that appear without me typing them manually,semantic,4,67,Organizing notes with labels #7,0.4893043041229248,True
+labels that appear without me typing them manually,semantic,5,89,Organizing notes with labels #29,0.48697444796562195,True
+labels that appear without me typing them manually,semantic,6,85,Organizing notes with labels #25,0.4787587523460388,True
+labels that appear without me typing them manually,semantic,7,75,Organizing notes with labels #15,0.47804200649261475,True
+labels that appear without me typing them manually,semantic,8,83,Organizing notes with labels #23,0.47704824805259705,True
+labels that appear without me typing them manually,semantic,9,79,Organizing notes with labels #19,0.47438937425613403,True
+labels that appear without me typing them manually,semantic,10,84,Organizing notes with labels #24,0.45599544048309326,True
