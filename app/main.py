@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.append(str(ROOT))
 
-from app.data.loader import load_notes
+from app.data.loader import DEFAULT_DATASET_PATH, load_notes
 from app.search.keyword import TfidfKeywordSearch
 from app.search.semantic import MODEL_NAME, SemanticSearch
 from app.tagging.classifier import EmbeddingTagger
@@ -23,17 +23,17 @@ def get_model() -> SentenceTransformer:
 
 
 @st.cache_data(show_spinner="Загружаю заметки...")
-def get_notes():
+def get_notes(dataset_version: float):
     return load_notes()
 
 
 @st.cache_resource(show_spinner="Строю keyword-индекс...")
-def get_keyword_search(_notes):
+def get_keyword_search(_notes, dataset_version: float):
     return TfidfKeywordSearch(_notes)
 
 
 @st.cache_resource(show_spinner="Строю semantic-индекс...")
-def get_semantic_search(_notes, _model):
+def get_semantic_search(_notes, _model, dataset_version: float):
     return SemanticSearch(_notes, model=_model)
 
 
@@ -43,7 +43,7 @@ def get_tagger(_model):
 
 
 @st.cache_resource(show_spinner="Определяю категории заметок...")
-def get_classified_notes(_notes, _tagger):
+def get_classified_notes(_notes, _tagger, dataset_version: float):
     notes_with_metadata = _notes.copy()
     classifications = [_tagger.classify(text) for text in notes_with_metadata["text"]]
     notes_with_metadata["tags"] = [item.tags for item in classifications]
@@ -69,12 +69,13 @@ def main() -> None:
             """
         )
 
-    notes = get_notes()
+    dataset_version = DEFAULT_DATASET_PATH.stat().st_mtime
+    notes = get_notes(dataset_version)
     model = get_model()
-    keyword_search = get_keyword_search(notes)
-    semantic_search = get_semantic_search(notes, model)
+    keyword_search = get_keyword_search(notes, dataset_version)
+    semantic_search = get_semantic_search(notes, model, dataset_version)
     tagger = get_tagger(model)
-    notes_with_metadata = get_classified_notes(notes, tagger)
+    notes_with_metadata = get_classified_notes(notes, tagger, dataset_version)
 
     with st.sidebar:
         st.header("Заметки")
